@@ -11,7 +11,7 @@
 |`Nov 11, 2022`| Coursera | [Introduction to Web Development with HTML, CSS, JavaScript](https://www.coursera.org/account/accomplishments/verify/EQF2QCCP349C) | [IBM](https://github.com/x39OME/my-courses-and-certificates/blob/main/Coursera%20EQF2QCCP349C.pdf)
 |`Nov 21, 2022`| Coursera | [Responsive Web Design](https://www.coursera.org/account/accomplishments/verify/LKAJKVJF37MC) | [University of London, Goldsmiths, University of London](https://github.com/x39OME/my-courses-and-certificates/blob/main/Coursera%20LKAJKVJF37MC.pdf)
 |`Nov 23, 2022`| Coursera | [Programming Foundations with JavaScript, HTML and CSS](https://www.coursera.org/account/accomplishments/verify/MLR42HN3FV73) | [Duke University `Honors`](https://github.com/x39OME/my-courses-and-certificates/blob/main/Coursera%20MLR42HN3FV73.pdf)
-|`06`| Coursera | [name]() | [University]()
+|`Dec 2, 2022`| Coursera | [Introduction to Web Development](https://www.coursera.org/account/accomplishments/verify/N9JSX9RCF86N) | [University of California, Davis](https://github.com/x39OME/my-courses-and-certificates/blob/main/Coursera%20N9JSX9RCF86N.pdf)
 |`07`| Coursera | [name]() | [University]()
 |`08`| Coursera | [name]() | [University]()
 |`09`| Coursera | [name]() | [University]()
