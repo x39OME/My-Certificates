@@ -21,8 +21,8 @@
 |`Jan 1, 2023`| Freecodecamp | [Responsive Web Design](https://www.freecodecamp.org/certification/fcc1bcf9fb8-3ff8-4440-8c80-1c959a408e53/responsive-web-design) | [Freecodecamp](https://github.com/x39OME/my-courses-and-certificates/blob/main/Freecodecamp.PNG)
 |`Jan 26, 2023`| Coursera | [Introduction to Front-End Development](https://www.coursera.org/account/accomplishments/verify/VBAXM7Y32S64) | [Meta](https://github.com/x39OME/my-courses-and-certificates/blob/main/Coursera%20VBAXM7Y32S64.pdf)
 |`Mar 5, 2023`| Coursera | [Programming with JavaScript](https://www.coursera.org/account/accomplishments/verify/ZYY8B5WRWQRA) | [Meta](https://github.com/x39OME/my-courses-and-certificates/blob/main/Coursera%20ZYY8B5WRWQRA.pdf)
-|`10`| Coursera | [Meta]() | [Meta]()
-|`10`| Coursera | [Meta]() | [Meta]()
+|`Mar 19, 2023`| Coursera | [Version Control](https://www.coursera.org/account/accomplishments/verify/QRAE2J76FPJH) | [Meta](https://github.com/x39OME/my-courses-and-certificates/blob/main/Coursera%20QRAE2J76FPJH.pdf)
+|`Jun 5, 2023`| Coursera | [HTML and CSS in depth](https://www.coursera.org/account/accomplishments/verify/GBSR2278G4QS) | [Meta](https://github.com/x39OME/my-courses-and-certificates/blob/main/Coursera%20GBSR2278G4QS.pdf)
 |`10`| Coursera | [name]() | [University]()
 ## 
 
