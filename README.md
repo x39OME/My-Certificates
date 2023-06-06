@@ -17,7 +17,7 @@
 |`Dec 22, 2022`| Coursera | [Interactivity with JavaScript](https://www.coursera.org/account/accomplishments/verify/XUL4BHS7DRAX) | [University of Michigan](https://github.com/x39OME/my-courses-and-certificates/blob/main/Coursera%20XUL4BHS7DRAX.pdf)
 |`11`| Coursera | [Advanced Styling with Responsive Design](https://www.coursera.org/account/accomplishments/verify/YGML3NDYN3VM) | [University of Michigan](https://github.com/x39OME/my-courses-and-certificates/blob/main/Coursera%20YGML3NDYN3VM.pdf)
 |`Dec 28, 2022`| Coursera | [Web Design for Everybody Capstone](https://www.coursera.org/account/accomplishments/verify/8ZRCKQCK8PCQ) | [University of Michigan](https://github.com/x39OME/my-courses-and-certificates/blob/main/Coursera%208ZRCKQCK8PCQ.pdf)
-|`Dec 28, 2022`| Coursera | [Web Design for Everybody: Basics of Web Development & Coding](https://www.coursera.org/account/accomplishments/specialization/UCNQ666QC6ZQ) | [University of Michigan](https://github.com/x39OME/my-courses-and-certificates/blob/main/Coursera%20UCNQ666QC6ZQ.pdf)
+|`Dec 28, 2022`| Coursera | [Web Design for Everybody: Basics of Web Development & Coding `Specializations`](https://www.coursera.org/account/accomplishments/specialization/UCNQ666QC6ZQ) | [University of Michigan](https://github.com/x39OME/my-courses-and-certificates/blob/main/Coursera%20UCNQ666QC6ZQ.pdf)
 |`10`| Coursera | [name]() | [University]()
 |`10`| Coursera | [name]() | [University]()
 |`10`| Coursera | [name]() | [University]()
