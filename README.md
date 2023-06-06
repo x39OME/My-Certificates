@@ -19,9 +19,10 @@
 |`Dec 28, 2022`| Coursera | [Web Design for Everybody Capstone](https://www.coursera.org/account/accomplishments/verify/8ZRCKQCK8PCQ) | [University of Michigan](https://github.com/x39OME/my-courses-and-certificates/blob/main/Coursera%208ZRCKQCK8PCQ.pdf)
 |`Dec 28, 2022`| Coursera | [Web Design for Everybody: Basics of Web Development & Coding `Specializations`](https://www.coursera.org/account/accomplishments/specialization/UCNQ666QC6ZQ) | [University of Michigan](https://github.com/x39OME/my-courses-and-certificates/blob/main/Coursera%20UCNQ666QC6ZQ.pdf)
 |`Jan 1, 2023`| Freecodecamp | [Responsive Web Design](https://www.freecodecamp.org/certification/fcc1bcf9fb8-3ff8-4440-8c80-1c959a408e53/responsive-web-design) | [Freecodecamp](https://github.com/x39OME/my-courses-and-certificates/blob/main/Freecodecamp.PNG)
-|`10`| Coursera | [name]() | [University]()
-|`10`| Coursera | [name]() | [University]()
-|`10`| Coursera | [name]() | [University]()
+|`Jan 26, 2023`| Coursera | [Introduction to Front-End Development](https://www.coursera.org/account/accomplishments/verify/VBAXM7Y32S64) | [Meta](https://github.com/x39OME/my-courses-and-certificates/blob/main/Coursera%20VBAXM7Y32S64.pdf)
+|`Mar 5, 2023`| Coursera | [Programming with JavaScript](https://www.coursera.org/account/accomplishments/verify/ZYY8B5WRWQRA) | [Meta](https://github.com/x39OME/my-courses-and-certificates/blob/main/Coursera%20ZYY8B5WRWQRA.pdf)
+|`10`| Coursera | [Meta]() | [Meta]()
+|`10`| Coursera | [Meta]() | [Meta]()
 |`10`| Coursera | [name]() | [University]()
 ## 
 
