@@ -23,7 +23,7 @@
 |`Mar 5, 2023`| Coursera | [Programming with JavaScript](https://www.coursera.org/account/accomplishments/verify/ZYY8B5WRWQRA) | [Meta](https://github.com/x39OME/my-courses-and-certificates/blob/main/Coursera%20ZYY8B5WRWQRA.pdf)
 |`Mar 19, 2023`| Coursera | [Version Control](https://www.coursera.org/account/accomplishments/verify/QRAE2J76FPJH) | [Meta](https://github.com/x39OME/my-courses-and-certificates/blob/main/Coursera%20QRAE2J76FPJH.pdf)
 |`Jun 5, 2023`| Coursera | [HTML and CSS in depth](https://www.coursera.org/account/accomplishments/verify/GBSR2278G4QS) | [Meta](https://github.com/x39OME/my-courses-and-certificates/blob/main/Coursera%20GBSR2278G4QS.pdf)
-|``| Ustudy Camp | [Mobile Developer React Native]() | [Ustudy]()
+|``| Ustudy Camp | [Mobile Developer React Native]() | [Ustudy](https://ustudy24.com/course/1262)
 |`10`| Coursera | [name]() | [University]()
 ## 
 
