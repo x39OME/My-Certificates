@@ -26,6 +26,7 @@
 |`00`| Ustudy Camp | [Mobile Developer React Native]() | [Ustudy](https://ustudy24.com/course/1262)
 |`00`| EDRAAK | [International Computer Driving License (ICDL)]() | [EDRAAK](https://programs.edraak.org/)
 |`00`| Coursera | [name]() | [University]()
+|`00`| Edx | [CS50: Introduction to Computer Science]() | [Harvard University](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 ## 
 
 ## Note
