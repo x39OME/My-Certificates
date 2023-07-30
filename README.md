@@ -29,7 +29,7 @@
 |`Mon 0, 2023`| Coursera | [Front-End Developer Capstone ]() | [Meta]()
 |`Mon 0, 2023`| Coursera | [Coding Interview Preparation]() | [Meta]()
 |`Mon 0, 2023`| Coursera | [Meta Front-End Developer Professional Certificate]() | [Meta]()
-|`00`| Ustudy Camp | [Mobile Developer React Native]() | [Ustudy](https://ustudy24.com/course/1262)
+|`00`| Ustudy Camp | [Mobile Developer React Native](https://ustudy24.com/course/1262) | [Ustudy](https://ustudy24.com/course/1262)
 |`00`| EDRAAK | [International Computer Driving License (ICDL)]() | [EDRAAK](https://programs.edraak.org/)
 |`00`| Coursera | [name]() | [University]()
 |`00`| Edx | [CS50: Introduction to Computer Science]() | [Harvard University](https://pll.harvard.edu/course/cs50-introduction-computer-science)
