@@ -29,13 +29,13 @@
 | `21` |Mon 0, 2023| Coursera | [Front-End Developer Capstone ]() | [Meta]()
 | `22` |Mon 0, 2023| Coursera | [Coding Interview Preparation]() | [Meta]()
 | `23` |Mon 0, 2023| Coursera | [Meta Front-End Developer Professional Certificate]() | [Meta]()
-| `24` |00| Ustudy Camp | [Mobile Developer React Native](https://ustudy24.com/course/1262) | [Ustudy](https://ustudy24.com/course/1262)
-| `25` |00| EDRAAK | [International Computer Driving License (ICDL)]() | [EDRAAK](https://programs.edraak.org/)
-| `26` |00| Coursera | [name]() | [University]()
-| `27` |00| EDX | [CS50's Introduction to Computer Science]() | [Harvard University](https://pll.harvard.edu/course/cs50-introduction-computer-science)
-| `28` |00| EDX | [CS50's Web Programming with Python and JavaScript]() | [Harvard University](https://pll.harvard.edu/course/cs50-introduction-computer-science)
-| `29` |00| EDX | [Professional Certificate in Computer Science for Web Programming]() | [Harvard University](https://www.edx.org/professional-certificate/harvardx-computer-science-for-web-programming?index=product&queryID=f30237de0b8b24887f91a220ebd33966&position=6&results_level=second-level-results&term=professkonal+certificate&objectID=program-90f4789c-2549-4670-ade7-12cc8b590f5c&campaign=Computer+Science+for+Web+Programming&source=edX&product_category=professional-certificate&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch)
-| `30` |00| Coursera | [name]() | [University]()
+| `24` |Soon| Ustudy Camp | [Mobile Developer React Native](https://ustudy24.com/course/1262) | [Ustudy](https://ustudy24.com/course/1262)
+| `25` |Soon| EDRAAK | [International Computer Driving License (ICDL)]() | [EDRAAK](https://programs.edraak.org/)
+| `26` |Soon| Coursera | [name]() | [University]()
+| `27` |Soon| EDX | [CS50's Introduction to Computer Science]() | [Harvard University](https://pll.harvard.edu/course/cs50-introduction-computer-science)
+| `28` |Soon| EDX | [CS50's Web Programming with Python and JavaScript]() | [Harvard University](https://pll.harvard.edu/course/cs50-introduction-computer-science)
+| `29` |Soon| EDX | [Professional Certificate in Computer Science for Web Programming]() | [Harvard University](https://www.edx.org/professional-certificate/harvardx-computer-science-for-web-programming?index=product&queryID=f30237de0b8b24887f91a220ebd33966&position=6&results_level=second-level-results&term=professkonal+certificate&objectID=program-90f4789c-2549-4670-ade7-12cc8b590f5c&campaign=Computer+Science+for+Web+Programming&source=edX&product_category=professional-certificate&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch)
+| `30` |Soon| Coursera | [name]() | [University]()
 
 ## 
 
