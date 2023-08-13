@@ -6,7 +6,7 @@
 
 |  | Tasks & Quizs | Platform | Name | Course provider
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| `01` |-| Coursera | [Responsive Website Basics:Code with HTML, CSS, and JavaScript](https://www.coursera.org/account/accomplishments/verify/HZEC3E37GQ2E) | [Goldsmiths, University of London](https://github.com/x39OME/my-courses-and-certificates/blob/main/Coursera%20HZEC3E37GQ2E.pdf)
+| `01` || Coursera | [Responsive Website Basics:Code with HTML, CSS, and JavaScript](https://www.coursera.org/account/accomplishments/verify/HZEC3E37GQ2E) | [Goldsmiths, University of London](https://github.com/x39OME/my-courses-and-certificates/blob/main/Coursera%20HZEC3E37GQ2E.pdf)
 | `02` |-|  Coursera | [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/account/accomplishments/verify/9VHZ6UVAH3TQ) | [Johns Hopkins University](https://github.com/x39OME/my-courses-and-certificates/blob/main/Coursera%209VHZ6UVAH3TQ.pdf)
 | `03` |-| Coursera | [Introduction to Web Development with HTML, CSS, JavaScript](https://www.coursera.org/account/accomplishments/verify/EQF2QCCP349C) | [IBM](https://github.com/x39OME/my-courses-and-certificates/blob/main/Coursera%20EQF2QCCP349C.pdf)
 | `04` |-| Coursera | [Responsive Web Design](https://www.coursera.org/account/accomplishments/verify/LKAJKVJF37MC) | [University of London, Goldsmiths, University of London](https://github.com/x39OME/my-courses-and-certificates/blob/main/Coursera%20LKAJKVJF37MC.pdf)
