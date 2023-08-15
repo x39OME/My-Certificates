@@ -29,7 +29,7 @@
 | `21` |[T & Q]()| Coursera | [Front-End Developer Capstone ]() | [Meta]()
 | `22` |[T & Q]()| Coursera | [Coding Interview Preparation]() | [Meta]()
 | `23` |[T & Q]()| Coursera | [Meta Front-End Developer Professional Certificate]() | [Meta]()
-| `24` |[T & Q](https://github.com/x39OME/Ustudy-Camp)| Ustudy Camp | [Mobile Developer React Native](https://ustudy24.com/course/1262) | [Ustudy](https://ustudy24.com/course/1262)
+| `24` |[T & Q](https://github.com/x39OME/Ustudy-Application-Development-Camp)| Ustudy Camp | [Mobile Developer React Native](https://ustudy24.com/course/1262) | [Ustudy](https://ustudy24.com/course/1262)
 | `-` |[T & Q]()| EDX | [CS50's Introduction to Computer Science]() | [Harvard University](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 | `-` |[T & Q]()| EDX | [CS50's Web Programming with Python and JavaScript]() | [Harvard University](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 | `-` |[T & Q]()| EDX | [Professional Certificate in Computer Science for Web Programming]() | [Harvard University](https://www.edx.org/professional-certificate/harvardx-computer-science-for-web-programming?index=product&queryID=f30237de0b8b24887f91a220ebd33966&position=6&results_level=second-level-results&term=professkonal+certificate&objectID=program-90f4789c-2549-4670-ade7-12cc8b590f5c&campaign=Computer+Science+for+Web+Programming&source=edX&product_category=professional-certificate&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch)
