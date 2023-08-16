@@ -24,7 +24,7 @@
 | `16` |[T & Q]()| Coursera | [Version Control](https://www.coursera.org/account/accomplishments/verify/QRAE2J76FPJH) | [Meta](https://github.com/x39OME/my-courses-and-certificates/blob/main/Coursera%20QRAE2J76FPJH.pdf)
 | `17` |[T & Q]()| Coursera | [HTML and CSS in depth](https://www.coursera.org/account/accomplishments/verify/GBSR2278G4QS) | [Meta](https://github.com/x39OME/my-courses-and-certificates/blob/main/Coursera%20GBSR2278G4QS.pdf)
 | `18` |[T & Q]()| Coursera | [React Basics](https://www.coursera.org/account/accomplishments/verify/MQ2CFF5DG2D5) | [Meta](https://github.com/x39OME/My-Certificates/blob/main/Coursera%20MQ2CFF5DG2D5.pdf)
-| `19` |[T & Q]()| Coursera | [Advanced React]() | [Meta]()
+| `19` |[T & Q]()| Coursera | [Advanced React](https://www.coursera.org/account/accomplishments/verify/38FN3SD2ZPTZ) | [Meta](https://github.com/x39OME/My-Certificates/blob/main/Coursera%2038FN3SD2ZPTZ.pdf)
 | `20` |[T & Q]()| Coursera | [Principles of UX/UI Design]() | [Meta]()
 | `21` |[T & Q]()| Coursera | [Front-End Developer Capstone ]() | [Meta]()
 | `22` |[T & Q]()| Coursera | [Coding Interview Preparation]() | [Meta]()
