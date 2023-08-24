@@ -37,9 +37,8 @@
 | `30` |[Soon]()| EDX | [CS50's AP® Computer Science Principles]() | [Harvard University]()
 | `31` |[Soon]()| EDX | [CS50's Web Programming with Python and JavaScript]() | [Harvard University]()
 | `32` |[Soon]()| EDX | [Professional Certificate in Computer Science for Web Programming]() | [Harvard University]()
-
 | `33` |[T & Q]()| EDRAAK | [International Computer Driving License (ICDL)]() | [EDRAAK](https://programs.edraak.org/)
-| `` |[T & Q]()| Course | [name]() | [University]()
+| `-` |[T & Q]()| Course | [name]() | [University]()
 | `-` |[T & Q]()| Course | [name]() | [University]()
 
 
