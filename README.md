@@ -1,9 +1,6 @@
 # My Courses And Certificates
 
 
-![This main img]()
-
-
 |  | Tasks & Quizs | Platform | Name | Course provider
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | `01` |-| Coursera | [Responsive Website Basics:Code with HTML, CSS, and JavaScript](https://www.coursera.org/account/accomplishments/verify/HZEC3E37GQ2E) | [Goldsmiths, University of London](https://github.com/x39OME/my-courses-and-certificates/blob/main/Coursera%20HZEC3E37GQ2E.pdf)
@@ -26,15 +23,23 @@
 | `18` |[T & Q]()| Coursera | [React Basics](https://www.coursera.org/account/accomplishments/verify/MQ2CFF5DG2D5) | [Meta](https://github.com/x39OME/My-Certificates/blob/main/Coursera%20MQ2CFF5DG2D5.pdf)
 | `19` |[T & Q]()| Coursera | [Advanced React](https://www.coursera.org/account/accomplishments/verify/38FN3SD2ZPTZ) | [Meta](https://github.com/x39OME/My-Certificates/blob/main/Coursera%2038FN3SD2ZPTZ.pdf)
 | `20` |[T & Q]()| Coursera | [Principles of UX/UI Design]() | [Meta]()
-| `21` |[work on it]()| Coursera | [Front-End Developer Capstone ]() | [Meta]()
-| `22` |[work on it]()| Coursera | [Coding Interview Preparation]() | [Meta]()
-| `23` |[work on it]()| Coursera | [Meta Front-End Developer Professional Certificate]() | [Meta]()
-| `24` |[work on it](https://github.com/x39OME/Ustudy-Application-Development-Camp)| Ustudy Camp | [Mobile Developer React Native](https://ustudy24.com/course/1262) | [Ustudy](https://ustudy24.com/course/1262)
-| `-` |[Soon]()| EDX | [CS50's Introduction to Computer Science]() | [Harvard University](https://pll.harvard.edu/course/cs50-introduction-computer-science)
-| `-` |[Soon]()| EDX | [CS50's Web Programming with Python and JavaScript]() | [Harvard University](https://pll.harvard.edu/course/cs50-introduction-computer-science)
-| `-` |[Soon]()| EDX | [Professional Certificate in Computer Science for Web Programming]() | [Harvard University](https://www.edx.org/professional-certificate/harvardx-computer-science-for-web-programming?index=product&queryID=f30237de0b8b24887f91a220ebd33966&position=6&results_level=second-level-results&term=professkonal+certificate&objectID=program-90f4789c-2549-4670-ade7-12cc8b590f5c&campaign=Computer+Science+for+Web+Programming&source=edX&product_category=professional-certificate&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch)
-| `-` |[T & Q]()| EDRAAK | [International Computer Driving License (ICDL)]() | [EDRAAK](https://programs.edraak.org/)
-| `-` |[T & Q]()| Course | [name]() | [University]()
+| `21` |[work..]()| Coursera | [Front-End Developer Capstone ]() | [Meta]()
+| `22` |[work..]()| Coursera | [Coding Interview Preparation]() | [Meta]()
+| `23` |[work..]()| Coursera | [Meta Front-End Developer Professional Certificate]() | [Meta]()
+| `24` |[work..t]()| Coursera | [Introduction to Mobile Development]() | [Meta]()
+| `25` |[work..]()| Coursera | [React Native]() | [Meta]()
+| `26` |[work..]()| Coursera | [Working with Data]() | [Meta]()
+| `27` |[work..]()| Coursera | [Capstone (React App)]() | [Meta]()
+| `28` |[work..]()| Coursera | [Meta React Native Specialization]() | [Meta]()
+| `29` |[work..](https://github.com/x39OME/Ustudy-Application-Development-Camp)| Ustudy Camp | [Mobile Developer React Native](https://ustudy24.com/course/1262) | [Ustudy](https://ustudy24.com/course/1262)
+| `30` |[Soon]()| EDX | [CS50's Introduction to Computer Science]() | [Harvard University]()
+| `30` |[Soon]()| EDX | [CS50's Understanding Technology]() | [Harvard University]()
+| `30` |[Soon]()| EDX | [CS50's AP® Computer Science Principles]() | [Harvard University]()
+| `31` |[Soon]()| EDX | [CS50's Web Programming with Python and JavaScript]() | [Harvard University]()
+| `32` |[Soon]()| EDX | [Professional Certificate in Computer Science for Web Programming]() | [Harvard University]()
+
+| `33` |[T & Q]()| EDRAAK | [International Computer Driving License (ICDL)]() | [EDRAAK](https://programs.edraak.org/)
+| `` |[T & Q]()| Course | [name]() | [University]()
 | `-` |[T & Q]()| Course | [name]() | [University]()
 
 
