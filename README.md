@@ -46,7 +46,7 @@
 | `39` |[Quiz]()| Soon | [Designing User Interfaces and Experiences (UI/UX)]() | [IBM]()
 | `40` |[Quiz]()| Soon | [Intermediate Web and Front-End Development]() | [IBM]()
 | `41` |[Quiz]()| Soon | [Front-End Development Capstone Project]() | [IBM]()
-| `42` |[Quiz]()| Soon | [IBM Front-End Developer Professional Certificate]() | [IBM]()
+| `42` |[Quiz]()| Soon | [`IBM Front-End Developer Professional Certificate`]() | [IBM]()
 | `-` |[Quiz]()| Course | [name]() | [University]()
 
 
