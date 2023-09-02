@@ -31,7 +31,7 @@
 | `26` |[Quiz]()| Coursera | [Working with Data]() | [Meta]()
 | `27` |[Quiz]()| Coursera | [Capstone (React App)]() | [Meta]()
 | `28` |[Quiz]()| Coursera | [`Meta React Native Specialization`]() | [Meta]()
-| `29` |[Quiz](https://github.com/x39OME/Ustudy-Application-Development-Camp)| Ustudy Camp | [Mobile Developer React Native](https://ustudy24.com/course/1262) | [Ustudy](https://ustudy24.com/course/1262)
+| `29` |[Quiz](https://github.com/x39OME/Ustudy-Application-Development-Camp)| Ustudy Camp | [`Mobile Developer React Native Camp`](https://ustudy24.com/course/1262) | [Ustudy](https://ustudy24.com/course/1262)
 | `30` |[Quiz]()| EDX | [CS50's Introduction to Computer Science]() | [Harvard University]()
 | `30` |[Quiz]()| EDX | [CS50's Understanding Technology]() | [Harvard University]()
 | `30` |[Quiz]()| EDX | [CS50's AP® Computer Science Principles]() | [Harvard University]()
