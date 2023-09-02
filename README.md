@@ -38,7 +38,15 @@
 | `31` |[Quiz]()| EDX | [CS50's Web Programming with Python and JavaScript]() | [Harvard University]()
 | `32` |[Quiz]()| EDX | [Professional Certificate in Computer Science for Web Programming]() | [Harvard University]()
 | `33` |[Quiz]()| EDRAAK | [International Computer Driving License (ICDL)]() | [EDRAAK](https://programs.edraak.org/)
-| `-` |[Quiz]()| Course | [name]() | [University]()
+| `34` |[Quiz]()| Soon | [Introduction to Software Engineering]() | [IBM]()
+| `35` |[Quiz]()| Soon | [Introduction to Web Development with HTML, CSS, JavaScript]() | [IBM]()
+| `36` |[Quiz]()| Soon | [Getting Started with Git and GitHub]() | [IBM]()
+| `37` |[Quiz]()| Soon | [Developing Cloud Native Applications]() | [IBM]()
+| `38` |[Quiz]()| Soon | [Developing Front-End Apps with React]() | [IBM]()
+| `39` |[Quiz]()| Soon | [Designing User Interfaces and Experiences (UI/UX)]() | [IBM]()
+| `40` |[Quiz]()| Soon | [Intermediate Web and Front-End Development]() | [IBM]()
+| `41` |[Quiz]()| Soon | [Front-End Development Capstone Project]() | [IBM]()
+| `42` |[Quiz]()| Soon | [IBM Front-End Developer Professional Certificate]() | [IBM]()
 | `-` |[Quiz]()| Course | [name]() | [University]()
 
 
