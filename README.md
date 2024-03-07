@@ -33,7 +33,7 @@
 | `28` |[Quiz](https://github.com/x39OME/Meta-React-Native-Specialization/tree/main/8%20-%20Capstone%20(React%20App))| Coursera | [Capstone (React App)](https://www.coursera.org/account/accomplishments/certificate/HR6WRRZ6CQ9Q) | [Meta](https://github.com/x39OME/My-Certificates/blob/main/Coursera%20HR6WRRZ6CQ9Q.pdf)
 | `29` |[Quiz](https://github.com/x39OME/Meta-React-Native-Specialization)| Coursera | [`Meta React Native Specialization`](https://www.coursera.org/account/accomplishments/specialization/E77SE2GUEUFY) | [Meta](https://github.com/x39OME/My-Certificates/blob/main/Coursera%20E77SE2GUEUFY.pdf)
 | `30` |[Quiz](https://github.com/x39OME/Application-Development-Camp-Mobile-Developer-React-Native/tree/main)| Ustudy Camp | [`Mobile Developer React Native Camp`](https://github.com/x39OME/My-Certificates/blob/main/training-camp-attendance-certificate.pdf) | [Ustudy](https://github.com/x39OME/My-Certificates/blob/main/graduation-project-completion-certificate.pdf)
-| `31` |[-]()| Cisco | [JavaScript Essentials 1](https://github.com/x39OME/My-Certificates/blob/main/JavaScript_Essentials_1_Badge20240307-29-e467fc.pdf) | [Cisco](https://github.com/x39OME/My-Certificates/blob/main/javascript-essentials-1.png)
+| `31` |[]()| Cisco | [JavaScript Essentials 1](https://github.com/x39OME/My-Certificates/blob/main/JavaScript_Essentials_1_Badge20240307-29-e467fc.pdf) | [Cisco](https://github.com/x39OME/My-Certificates/blob/main/javascript-essentials-1.png)
 | `31` |[Quiz]()| EDX | [CS50's Introduction to Computer Science]() | [Harvard University]()
 | `32` |[Quiz]()| EDX | [CS50's Understanding Technology]() | [Harvard University]()
 | `33` |[Quiz]()| EDX | [CS50's AP® Computer Science Principles]() | [Harvard University]()
