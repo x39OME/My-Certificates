@@ -36,7 +36,7 @@
 | `31` |[]()| Cisco | [JavaScript Essentials 1](https://github.com/x39OME/My-Certificates/blob/main/JavaScript_Essentials_1_Badge20240307-29-e467fc.pdf) | [Cisco](https://github.com/x39OME/My-Certificates/blob/main/javascript-essentials-1.png)
 | `32` |[Quiz]()| EDX | [CSS Basics](https://courses.edx.org/certificates/4a8326f11c0e41da912ce8e85e5b1895) | [W3Cx](https://github.com/x39OME/My-Certificates/blob/main/W3Cx%20CSS.0x%20Certificate%20edX.pdf)
 | `33` |[Quiz]()| EDX | [HTML5 and CSS Fundamentals]() | [W3Cx]()
-| `34` |[Quiz]()| EDX | [HTML5 Coding Essentials and Best Practices]() | [W3Cx]()
+| `34` |[Quiz]()| EDX | [HTML5 Coding Essentials and Best Practices](https://courses.edx.org/certificates/7de4ade92e044c4eafd315295cffc5d1?_gl=1*8oi0mn*_ga*OTc2MTYwNzYyLjE3MTY2MTU1MzA.*_ga_D3KS4KMDT0*MTcxNjg3NzQ0MC4xMC4xLjE3MTY4ODYzMzMuNTEuMC4w) | [W3Cx]()
 | `35` |[Quiz]()| EDX | [HTML5 Apps and Games]() | [W3Cx]()
 | `36` |[Quiz]()| EDX | [JavaScript Introduction]() | [W3Cx]()
 | `37` |[Quiz]()| EDX | [CS50's Introduction to Computer Science]() | []()
