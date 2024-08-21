@@ -35,7 +35,7 @@
 | `30` |[Quiz](https://github.com/x39OME/Application-Development-Camp-Mobile-Developer-React-Native/tree/main)| Ustudy Camp | [`Mobile Developer React Native Camp`](https://github.com/x39OME/My-Certificates/blob/main/training-camp-attendance-certificate.pdf) | [Ustudy](https://github.com/x39OME/My-Certificates/blob/main/graduation-project-completion-certificate.pdf)
 | `31` |[]()| Cisco | [JavaScript Essentials 1](https://github.com/x39OME/My-Certificates/blob/main/JavaScript_Essentials_1_Badge20240307-29-e467fc.pdf) | [Cisco](https://github.com/x39OME/My-Certificates/blob/main/javascript-essentials-1.png)
 | `32` |[Quiz]()| EDX | [CSS Basics](https://courses.edx.org/certificates/4a8326f11c0e41da912ce8e85e5b1895) | [W3Cx](https://github.com/x39OME/My-Certificates/blob/main/W3Cx%20CSS.0x%20Certificate%20edX.pdf)
-| `33` |[Quiz]()| Soon | [HTML5 and CSS Fundamentals]() | [W3Cx]()
+| `33` |[Quiz]()| EDX | [HTML5 and CSS Fundamentals](https://courses.edx.org/certificates/e593141bee6f4c79b72165da81380133?_gl=1*7wvkex*_gcl_au*MjA1NTQ1MjA1LjE3MjMyNzE4ODE.*_ga*MTgwNzI1Mjk4NC4xNzIzMjcxODgw*_ga_D3KS4KMDT0*MTcyNDIxODM2NS43LjEuMTcyNDIyMjI5Ny41NC4wLjA.) | [W3Cx](https://github.com/x39OME/My-Certificates/blob/main/W3Cx%20HTML5.0x%20Certificate%20edX.pdf)
 | `34` |[Quiz]()| EDX | [HTML5 Coding Essentials and Best Practices](https://courses.edx.org/certificates/7de4ade92e044c4eafd315295cffc5d1?_gl=1*8oi0mn*_ga*OTc2MTYwNzYyLjE3MTY2MTU1MzA.*_ga_D3KS4KMDT0*MTcxNjg3NzQ0MC4xMC4xLjE3MTY4ODYzMzMuNTEuMC4w) | [W3Cx](https://github.com/x39OME/My-Certificates/blob/main/W3Cx%20HTML5.1x%20Certificate%20edX.pdf)
 | `35` |[Quiz]()| Soon | [HTML5 Apps and Games]() | [W3Cx]()
 | `36` |[Quiz]()| Soon | [JavaScript Introduction]() | [W3Cx]()
