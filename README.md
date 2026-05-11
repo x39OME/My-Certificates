@@ -46,7 +46,7 @@
 | `40` |[Quiz]()| Soon | [Large Language Models]() | [IBM SkillsBuild]()
 | `41` |[Quiz]()| Soon | [Build Your First Chatbot]() | [IBM SkillsBuild]()
 | `42` |[Quiz]()| Soon | [Unleashing the Power of AI Agents]() | [IBM SkillsBuild]()
-| `43` |[PreHack]()| PreHack | [Pre-Agentic AI Bootcamp](https://github.com/x39OME/My-Certificates/blob/main/Pre-Agentic%20AI%20Bootcamp.pdf) | [IMB SkillsBuild]()
+| `43` |PreHack| PreHack | [Pre-Agentic AI Bootcamp](https://github.com/x39OME/My-Certificates/blob/main/Pre-Agentic%20AI%20Bootcamp.pdf) | [IMB SkillsBuild]()
 | `50` |[Quiz]()| Course | [name]() | [University]()
 
 
