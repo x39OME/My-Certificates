@@ -46,7 +46,7 @@
 | `41` || EFE AI | [Build Your First Chatbot](https://skills.yourlearning.ibm.com/certificate/ALM-COURSE_3946111) | [IBM SkillsBuild](https://skills.yourlearning.ibm.com/certificate/ALM-COURSE_3946111)
 | `42` || EFE AI | [`EFE AI Learning plan`](https://skills.yourlearning.ibm.com/certificate/PLAN-AB7035DA3D23) | [IBM SkillsBuild](https://github.com/x39OME/My-Certificates/blob/main/EFE%20AI%20Learning%20plan%20Completion%20Certificate%20SkillsBuild.png)
 | `43` || EYouth & Prehack | [Unleashing the Power of AI Agents](https://skills.yourlearning.ibm.com/certificate/ALM-COURSE_3825456) | [IBM SkillsBuild](https://github.com/x39OME/My-Certificates/blob/main/Unleashing%20the%20Power%20of%20AI%20Agents.png)
-| `44` | PreHack | [Pre-Agentic AI Bootcamp](https://github.com/x39OME/My-Certificates/blob/main/Pre-Agentic%20AI%20Bootcamp.pdf) | [IMB SkillsBuild]()
+| `44` || PreHack | [Pre-Agentic AI Bootcamp](https://github.com/x39OME/My-Certificates/blob/main/Pre-Agentic%20AI%20Bootcamp.pdf) | [IMB SkillsBuild]()
 | `45` |[Quiz]()| Course | AI for Software Development]() | [IBM SkillsBuild]()
 
 
