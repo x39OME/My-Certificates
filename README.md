@@ -44,7 +44,7 @@
 | `38` || Neon | [Supercharge Your Data Analytics with Generative AI](https://skills.yourlearning.ibm.com/certificate/ALM-COURSE_4059725) | [IBM SkillsBuild](https://skills.yourlearning.ibm.com/certificate/ALM-COURSE_4059725)
 | `39` || EFE AI | [Exploring Artificial Intelligence](https://skills.yourlearning.ibm.com/certificate/ALM-COURSE_3825247) | [IBM SkillsBuild](https://skills.yourlearning.ibm.com/certificate/ALM-COURSE_3825247)
 | `40` || EFE AI | [Build Your First Chatbot](https://skills.yourlearning.ibm.com/certificate/ALM-COURSE_3946111) | [IBM SkillsBuild](https://skills.yourlearning.ibm.com/certificate/ALM-COURSE_3946111)
-| `41` || EFE AI | [EFE AI Learning plan](https://skills.yourlearning.ibm.com/certificate/PLAN-AB7035DA3D23) | [IBM SkillsBuild](https://skills.yourlearning.ibm.com/certificate/PLAN-AB7035DA3D23)
+| `41` || EFE AI | [`EFE AI Learning plan`](https://skills.yourlearning.ibm.com/certificate/PLAN-AB7035DA3D23) | [IBM SkillsBuild](https://skills.yourlearning.ibm.com/certificate/PLAN-AB7035DA3D23)
 | `42` |Prehack|| EyOUTH | [Unleashing the Power of AI Agents](https://skills.yourlearning.ibm.com/certificate/ALM-COURSE_3825456) | [IBM SkillsBuild](https://skills.yourlearning.ibm.com/certificate/ALM-COURSE_3825456)
 | `43` | PreHack | [Pre-Agentic AI Bootcamp](https://github.com/x39OME/My-Certificates/blob/main/Pre-Agentic%20AI%20Bootcamp.pdf) | [IMB SkillsBuild]()
 | `50` |[Quiz]()| Course | [Use Generative AI for Software Development](https://skills.yourlearning.ibm.com/certificate/ALM-COURSE_4058884) | [IBM SkillsBuild](https://skills.yourlearning.ibm.com/certificate/ALM-COURSE_4058884)
