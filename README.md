@@ -47,7 +47,7 @@
 | `41` | EFE AI | [EFE AI Learning plan](https://skills.yourlearning.ibm.com/certificate/PLAN-AB7035DA3D23) | [IBM SkillsBuild](https://skills.yourlearning.ibm.com/certificate/PLAN-AB7035DA3D23)
 | `42` |Prehack| EyOUTH | [Unleashing the Power of AI Agents](https://skills.yourlearning.ibm.com/certificate/ALM-COURSE_3825456) | [IBM SkillsBuild](https://skills.yourlearning.ibm.com/certificate/ALM-COURSE_3825456)
 | `43` | PreHack | [Pre-Agentic AI Bootcamp](https://github.com/x39OME/My-Certificates/blob/main/Pre-Agentic%20AI%20Bootcamp.pdf) | [IMB SkillsBuild]()
-| `50` |[Quiz]()| Course | [name]() | [University]()
+| `50` |[Quiz]()| Course | [Use Generative AI for Software Development](https://skills.yourlearning.ibm.com/certificate/ALM-COURSE_4058884) | [University]()
 
 
 ## 
