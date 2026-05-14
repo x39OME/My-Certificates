@@ -42,13 +42,13 @@
 | `37` || W3Cx | [`Professional Certificate in Front-End Web Developer`](https://credentials.edx.org/credentials/2d26e4bfc6694ef8af880da0587e30fc/) | [W3Cx](https://github.com/x39OME/My-Certificates/blob/main/Professional%20Certificate%20in%20Front-End%20Web%20Developer.pdf)
 | `38` || EFE AI | [Use Generative AI for Software Development](https://skills.yourlearning.ibm.com/certificate/ALM-COURSE_4058884) | [IBM SkillsBuild](https://github.com/x39OME/My-Certificates/blob/main/Use%20Generative%20AI%20for%20Software%20Development.png)
 | `39` || EFE AI | [Supercharge Your Data Analytics with Generative AI](https://skills.yourlearning.ibm.com/certificate/ALM-COURSE_4059725) | [IBM SkillsBuild](https://github.com/x39OME/My-Certificates/blob/main/Supercharge%20Your%20Data%20Analytics%20with%20Generative%20AI.png)
-| `39` || Neon | [Supercharge Your Data Analytics with Generative AI](https://github.com/x39OME/My-Certificates/blob/main/Neon-Certificate-2d2e27f1-ed9c-4720-8f8e-11f5ddd64b18.pdf) | [Neon](https://github.com/x39OME/My-Certificates/blob/main/Neon-Certificate-2d2e27f1-ed9c-4720-8f8e-11f5ddd64b18.pdf)
-| `40` || EFE AI | [Exploring Artificial Intelligence](https://skills.yourlearning.ibm.com/certificate/ALM-COURSE_3825247) | [IBM SkillsBuild](https://github.com/x39OME/My-Certificates/blob/main/Exploring%20Artificial%20Intelligence.png)
-| `41` || EFE AI | [Build Your First Chatbot](https://skills.yourlearning.ibm.com/certificate/ALM-COURSE_3946111) | [IBM SkillsBuild](https://skills.yourlearning.ibm.com/certificate/ALM-COURSE_3946111)
-| `42` || EFE AI | [`EFE AI Learning plan`](https://skills.yourlearning.ibm.com/certificate/PLAN-AB7035DA3D23) | [IBM SkillsBuild](https://github.com/x39OME/My-Certificates/blob/main/EFE%20AI%20Learning%20plan%20Completion%20Certificate%20SkillsBuild.png)
-| `43` || Prehack | [Unleashing the Power of AI Agents](https://skills.yourlearning.ibm.com/certificate/ALM-COURSE_3825456) | [IBM SkillsBuild + EYouth](https://github.com/x39OME/My-Certificates/blob/main/Unleashing%20the%20Power%20of%20AI%20Agents.png)
-| `44` || PreHack | [Pre-Agentic AI Bootcamp](https://github.com/x39OME/My-Certificates/blob/main/Pre-Agentic%20AI%20Bootcamp.pdf) | [IMB SkillsBuild]()
-| `45` |[Quiz]()| Course | [AI for Software Development]() | [IBM SkillsBuild]()
+| `40` || Neon | [Supercharge Your Data Analytics with Generative AI](https://github.com/x39OME/My-Certificates/blob/main/Neon-Certificate-2d2e27f1-ed9c-4720-8f8e-11f5ddd64b18.pdf) | [Neon](https://github.com/x39OME/My-Certificates/blob/main/Neon-Certificate-2d2e27f1-ed9c-4720-8f8e-11f5ddd64b18.pdf)
+| `41` || EFE AI | [Exploring Artificial Intelligence](https://skills.yourlearning.ibm.com/certificate/ALM-COURSE_3825247) | [IBM SkillsBuild](https://github.com/x39OME/My-Certificates/blob/main/Exploring%20Artificial%20Intelligence.png)
+| `42` || EFE AI | [Build Your First Chatbot](https://skills.yourlearning.ibm.com/certificate/ALM-COURSE_3946111) | [IBM SkillsBuild](https://skills.yourlearning.ibm.com/certificate/ALM-COURSE_3946111)
+| `43` || EFE AI | [`EFE AI Learning plan`](https://skills.yourlearning.ibm.com/certificate/PLAN-AB7035DA3D23) | [IBM SkillsBuild](https://github.com/x39OME/My-Certificates/blob/main/EFE%20AI%20Learning%20plan%20Completion%20Certificate%20SkillsBuild.png)
+| `44` || Prehack | [Unleashing the Power of AI Agents](https://skills.yourlearning.ibm.com/certificate/ALM-COURSE_3825456) | [IBM SkillsBuild + EYouth](https://github.com/x39OME/My-Certificates/blob/main/Unleashing%20the%20Power%20of%20AI%20Agents.png)
+| `45` || PreHack | [Pre-Agentic AI Bootcamp](https://github.com/x39OME/My-Certificates/blob/main/Pre-Agentic%20AI%20Bootcamp.pdf) | [IMB SkillsBuild]()
+| `46` |[Quiz]()| Course | [AI for Software Development]() | [IBM SkillsBuild]()
 
 
 ## 
